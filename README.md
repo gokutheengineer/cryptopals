@@ -1,2 +1,2 @@
 # cryptopals
-crpytopals solutions
+Crpytopals solutions
