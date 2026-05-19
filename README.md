@@ -2,10 +2,6 @@
 
 Solutions to the [Cryptopals Crypto Challenges](https://cryptopals.com/) written in Rust.
 
-## Why
-
-Learning Rust and cryptography at the same time by working through each challenge from scratch — no crypto libraries, just the stdlib and a few helpers.
-
 ## Structure
 
 ```
