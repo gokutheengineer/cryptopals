@@ -1,0 +1,11 @@
+[package]
+name = "set7"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+
+[dependencies]
+utils = { path = "../utils" }
+hex = { workspace = true }
+base64 = { workspace = true }
+anyhow = { workspace = true }

@@ -1,0 +1,24 @@
+[workspace]
+resolver = "2"
+members = [
+    "utils",
+    "set1",
+    "set2",
+    "set3",
+    "set4",
+    "set5",
+    "set6",
+    "set7",
+    "set8",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+authors = ["gokutheengineer"]
+license = "MIT"
+
+[workspace.dependencies]
+hex = "0.4"
+base64 = "0.22"
+anyhow = "1"
